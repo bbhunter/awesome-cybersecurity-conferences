@@ -16,6 +16,7 @@ Discover and watch the latest cybersecurity conference talks. This repository is
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
 |---|---|---|---|---|---|---|---|
+| 10/2026| AlligatorCon Europe 2026 | N/A | N/A | [@AlligatorConEu](https://twitter.com/AlligatorConEu) | Krakow, Poland | English | [Website](https://www.alligatorcon.eu/) |
 | 4/2026 | 2026 Cyber Threat Intelligence Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO8F9hElQsT1pMa-VuAPp4QH) | [#FIRSTCTI26](https://twitter.com/hashtag/FIRSTCTI26)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Munich, Germany | English | [Schedule](https://www.first.org/conference/firstcti26/program) |
 
 # 2025 Conferences
